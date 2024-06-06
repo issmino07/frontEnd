@@ -1,0 +1,21 @@
+.tag {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  .pendiente {
+    background-color: red;
+    color: white;
+  }
+  
+  .expirado {
+    background-color: gray;
+    color: white;
+  }
+  
+  .resuelto {
+    background-color: green;
+    color: white;
+  }
